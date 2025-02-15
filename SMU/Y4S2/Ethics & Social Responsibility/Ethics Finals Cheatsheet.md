@@ -1,0 +1,160 @@
+### Body Paragraphs
+- **Identify the ethical issue**: note that many situations are highly fact specific - it is the inter-relationships between the parties involved in those situations that give rise to particular ethical issues/s
+- Observe the **moral choices** people make and the **reasons (expressed or implied)** they give for their choice. Consider relevant theories about what it is, or should be, the basis for such moral choice(s)
+- Consider **relevant theories** about what is, or should be, the basis for such moral choice(s) and analyse the ethicality of a proposed decision/action. Explain briefly why the theory is relevant
+- Analyse **implications of these theories** when applied to the fats of the situation
+- Consider **an extreme scenario** and the application of that theory in that scenario
+- Identify the **limitations** of the theory
+- Come to a **conclusion as to the ethicality** or otherwise of the moral choice(s) giving sound logical reasons based on your ethical analysis
+- **Recommend ethical choices** if asked to do so and if you feel it will provide further support for your conclusion
+## Utilitarianism
+### Bentham's Utilitarianism
+**Objections**:
+- Determining the extent and scope of those affected is challenging
+- Pain and pleasure are difficult to determine, measure, and compare
+- The basis of calculating the hedonistic calculus is vague (based on probabilities)
+- The question arises whether all pleasures should be given equal consideration (including anti-social, destructive, or sadistic pleasures)
+### Mill's Utilitarianism
+- Important to distinguish between higher and lower pleasures - a higher pleasure is one which cannot be exchanged for any amount of the lower pleasures and vice versa
+- Mental pleasures are considered higher than physical ones because only humans can have them
+> It is sufficient to discuss that the theory does stipulate that there are higher and lower pleasures - you can give a judgement to what is higher and lower, but must also acknowledge that it is difficult to discern which one is higher and which is lower
+
+**Limitations**: 
+1. **Ignoring Individual Rights and Justice:** Utilitarianism's focus on maximising overall happiness or utility can sometimes lead to the neglect of individual rights, liberties, and justice. Critics argue that utilitarianism may justify sacrificing the rights or interests of minorities or individuals if doing so would result in greater overall happiness for the majority, raising concerns about fairness and justice.
+2. **Tyranny of the Majority:** Related to the above point, utilitarianism may be susceptible to the "tyranny of the majority," where the preferences or well-being of minority groups are disregarded in favour of the interests of the majority. This raises ethical concerns about the treatment of marginalised or vulnerable populations.
+### Act vs Rule Utilitarianism 
+- **Prevention of Harmful Exceptions:** Act utilitarianism may justify morally problematic actions if they produce the greatest overall utility in a particular situation, even if these actions would typically be considered unethical. Focuses only on the consequences of the action in question can lead to people committing outrageous actions when they foresee good consequences
+- **Consideration of Long-Term Consequences:** Rule utilitarianism allows for the consideration of long-term consequences and societal well-being when formulating moral rules. By evaluating the overall utility of adopting certain rules or principles, rule utilitarianism encourages the development of rules that promote the greatest long-term happiness or well-being for society, even if they may not maximise utility in every individual case.
+- **Focus on Individual Well-Being:**  By directly considering the consequences of individual actions, act utilitarianism ensures that moral decisions are directly responsive to the needs and interests of those affected. In contrast, rule utilitarianism may prioritise adherence to rules or principles over the immediate well-being of individuals, potentially leading to situations where individuals' needs are overlooked in favour of following established rules.
+### Limitations of Utilitarianism
+#### Problems with calculating utility
+- Difficult to determine exactly how much pleasure or happiness an action will result in
+	- Complicated when calculating utility for all persons in which there is some form of tradeoff between someone's pleasure and another's pain
+	- There is no clear definition of what is the greater good
+- We don't know who has the ability to bring more pleasure to others in the long run -> no knowledge about future outcomes
+- Difficult to quantify happiness, aesthetic values and human attributes (love and friendship)
+#### Other difficulties
+- Weighing short-term vs long-term benefits/costs - unclear whether Mill's believed that the interests of future generations should be included in the utilitarian equation
+- Does not take into account distributive justice (fairness in distribution) - the overall welfare produced in society does not necessarily mean that benefits are equally distributed, and likely to ignore minority interests. 
+### Framing answer for Utilitarianism
+1. **State main principle of theory and relevance**	
+	Utilitarian theory would be relevant in helping us assess the ethicality of *[moral choice]* because... Taking this perspective, *[moral choice]* would be justified if it produces the greatest overall happiness
+2. **Identify all the stakeholders impacted then consider the pleasures and pains experienced by each - what is the trade-off?**
+	In evaluating the trade-offs within a utilitarian framework, we must consider the utility and happiness derived from ***positive outcomes*** such as ..., as experienced by *[**various stakeholder groups**]*. This must be carefully balanced against the suffering and negative consequences arising from ***adverse effects***  such as ..., within affected *[stakeholder groups]*.
+3. **Discuss scenarios for which the moral choice would be ethical and state any relevant assumptions.**
+	The ethicality of *[moral choice]* thus depends on whether the net increase in utility resulting from the *[positive consequences]* outweighs the *[negative impacts]* In cases where *[moral choice]* is likely to lead to significant benefits in terms of ..., it may be considered ethically justified despite the potential risks and challenges involved.
+4. **Consider rule utilitarianism (optional)**
+	From a rule utilitarian perspective, if *[action]* were to adopted as a general rule that everyone follows, *[consequences that follow]*, and this would have an overall positive impact on society
+5. **Limitations of the theory/counterarguments**
+6. **Overall conclusion on whether it is ethical based on utilitarian principles**
+	- Therefore, the ethicality of *[moral choice]* from a utilitarian perspective depends heavily on *[factors] (e.g. certain regulations/mitigations)* to bring about a net positive overall happiness for society 
+	- Therefore, *[moral choice]* is considered ethical / unethical from a utilitarian perspective as ...
+#### Examples
+- From a utilitarian perspective, the ethicality of abortion centers on the consequences for the well-being and happiness of all involved stakeholders. Advocates argue that legal and accessible abortion services can contribute to overall societal utility by reducing unwanted pregnancies, preventing maternal morbidity and mortality, and empowering individuals to make reproductive choices aligned with their life circumstances. Additionally, proponents contend that legal abortion can alleviate social and economic burdens by allowing individuals to pursue education, employment, and stable relationships, thereby fostering greater happiness and well-being in society. Conversely, opponents argue that abortion may result in the loss of potential happiness and well-being for the fetus, which they contend should be afforded moral consideration. However, the utilitarian calculus must also consider the potential negative consequences of restricting access to abortion, including increased rates of unsafe abortions, maternal deaths, and social inequalities. Overall, the ethicality of abortion from a utilitarian perspective hinges on the net increase or decrease in overall happiness and well-being resulting from the policy and its implementation, weighing the interests of all stakeholders involved.
+<br/>
+- From a utilitarian perspective, artificial intelligence (AI) and automation hold immense promise for improving efficiency, productivity, and overall societal well-being. By automating repetitive tasks and optimising processes, AI has the potential to free up human resources for more creative and fulfilling endeavours. For example, in industries such as manufacturing, logistics, and healthcare, AI-powered automation can streamline operations, reduce errors, and ultimately lead to cost savings and increased quality of service. Moreover, AI technologies have the capacity to enhance decision-making processes by analysing vast amounts of data and generating actionable insights in various fields, including finance, healthcare, and transportation. Additionally, advancements in AI-driven automation can contribute to addressing pressing global challenges, such as climate change and resource scarcity, by optimising resource allocation and minimising waste. However, from a utilitarian standpoint, it is essential to carefully consider potential risks and mitigate negative consequences, such as job displacement, algorithmic bias, and threats to privacy and security. By proactively addressing these ethical concerns and ensuring equitable access to the benefits of AI and automation, society can maximise overall utility and promote the greatest happiness for the greatest number of people.
+
+## Kantian Ethics
+- One must act from a moral duty and not in conformity with a moral duty - one's intentions matter. For example, if you do a good and moral deed, but did so due to personal advantages and self-interests then it would be unethical 
+- **There are specific duties derived from categorical imperatives that Kant believed in**:
+	1. The duty to refrain from suicide is grounded in the principle of self-love and the preservation of life. Kant argued that individuals have a duty to respect their own humanity and not treat themselves merely as a means to an end.
+	2. The duty to refrain from making false promises stems from the principle of treating others with respect and dignity. Kant maintained that lying violates the autonomy of others by deceiving them and using them as mere means to achieve one's own ends.
+	3. The duty to develop one's talents and capacities is derived from the principle of respecting humanity as an end in itself. Kant believed that individuals have a duty to cultivate their rational abilities and pursue self-improvement in order to contribute to the progress and advancement of humanity.
+	4. The duty to show benevolence towards others is rooted in the principle of treating others with compassion and goodwill. Kant argued that benevolent actions, motivated by love and sympathy, are essential for promoting the well-being and happiness of others and are consistent with the moral law.
+
+These duties are considered categorical imperatives because they are universal, unconditional moral principles that apply to all rational beings, regardless of their individual desires or circumstances. They represent fundamental moral obligations grounded in the inherent worth and dignity of humanity.
+### Limitations of Kantian Ethics
+- Does not prescribe what one should do in a situation but is a principle of non-contradiction
+- People are not always rational
+- Difficulty in resolving conflicts between duties
+- Overemphasis on intentions (does not really take into account of consider consequences of actions)
+### Framing answer for Kantian Ethics
+1. **State main principle of theory and relevance**	
+	Kantian ethics would be relevant in helping to assess whether *[moral agent]* is acting consistently with his moral obligations
+2. **Application of relevant principle**
+	- **Principle of Universality**: Consider the action -> derive a relevant maxim -> consider if a rational person would be prepared for this maxim to be applied universally and explain why or why not (e.g. what would happen if the maxim were to be universalised)
+		- Example: Making hiring decisions on the basis of how sophisticated one appears to be is discriminatory and hence problematic. there is an inherent bias, and this factor is not directly related to work performance. If this were to be universalised, there would not be efficient matching of employees to employers, and this would disrupt the labour market.
+	- **Principle of Humanity**: Does the action violate human dignity and respect for persons? Is the moral agent treating human beings merely as means to an end
+		- Example: Discriminatory hiring practices goes against fundamental notion of respecting human dignity as it denies candidates their moral right to be treated as equals and evaluated on the basis of merit instead of perceived inherent qualities
+3. **Consider the Role of Intentions** 
+	- Was he acting from a moral duty or simply in conformity of a moral duty?
+	- Assess whether the intentions behind the action align with moral duty and the categorical imperative.
+4. **Limitations of the theory/counterarguments**
+5. **Overall conclusion on whether it is ethical based on utilitarian principles**
+#### Examples
+- From a Kantian perspective, the ethicality of abortion is primarily evaluated through the lens of moral duty and the inherent worth of human life. Kantian ethics emphasises the principle of treating humanity as an end in itself, which prohibits using individuals merely as means to an end. In the case of abortion, Kant would argue that the fetus possesses inherent dignity and moral worth as a potential rational being, and therefore, it must be treated as an end in itself. Abortion, which involves the deliberate termination of fetal life, could be seen as a violation of this principle, as it treats the fetus solely as a means to the end of the mother's convenience or well-being. Additionally, Kant would emphasise the universalisability of actions, suggesting that if everyone were to engage in abortion as a means of resolving unwanted pregnancies, it would undermine the value of human life and the moral fabric of society. Therefore, from a Kantian perspective, abortion would likely be considered ethically problematic, as it involves the intentional destruction of a human life and fails to uphold the principle of treating humanity as an end in itself.
+<br/>
+- From a Kantian ethics perspective, the development and deployment of artificial intelligence (AI) and automation must be guided by principles that respect and uphold human dignity and autonomy. Kantian ethics emphasize the inherent worth of each individual and the importance of treating them as ends in themselves, rather than as mere means to an end. In the context of AI and automation, this means ensuring that these technologies are designed and implemented in ways that prioritize human agency, decision-making, and moral responsibility. For example, AI algorithms should be programmed to adhere to principles of fairness, transparency, and accountability to prevent discrimination and promote ethical decision-making. Moreover, individuals must retain control over how their personal data is collected, used, and shared in AI systems to safeguard their privacy and autonomy. Additionally, from a Kantian perspective, it is imperative to consider the potential consequences of AI and automation on human relationships, social interactions, and the overall fabric of society. While these technologies have the potential to enhance efficiency and convenience, they must not erode the essential human capacities for empathy, compassion, and ethical judgment. By upholding Kantian principles of respect for persons and moral duty, society can ensure that AI and automation serve as tools for human flourishing and ethical progress, rather than as threats to human dignity and autonomy.
+## John Rawl's Theory of Justice
+- Procedure for decision making is premised upon the Original Position - hypothetical social contract by which people ought to bind themselves
+	- society should decide how social goods are distributed among society under a "veil of ignorance" 
+### Framing answer for Theory of Justice
+1. **Identify the Primary Ethical Issue:**
+    - Clearly state the primary ethical issue or question raised by the situation.
+    - Consider how the situation relates to questions of fairness, distribution of resources, and the treatment of individuals within society.
+2. **Apply the Veil of Ignorance:**
+    - Imagine how individuals would choose principles of justice from behind Rawls' veil of ignorance, where they are unaware of their own characteristics and circumstances.
+    - Consider what principles would be chosen to govern society if individuals did not know their own race, gender, socioeconomic status, or other defining characteristics.
+3. **Assess the Principles of Justice:**
+    - Consider whether the situation adheres to the principles of equal basic liberties and fair equality of opportunity, as well as the difference principle.
+	- Principle of Equal Basic Liberty:
+		- Does each person involved have an equal right to the most extensive total system of basic liberties?
+			- What should be considered as basic liberties in the context of the ethical issue?
+			- How is this liberty being protected or denied by *[action]* of the *[moral agent]*
+	- Fair Equality of Opportunity principle
+		- Is there fair equality of opportunity for all regardless of race/religion/gender etc. such that each person is able to realise their capacities/potential?
+1. **Consider the Impact on the Least Advantaged:**
+    - Evaluate how the ethical situation affects the least advantaged members of society.
+    - Determine whether the situation contributes to or alleviates social inequalities and whether it ensures fair opportunities for those with the fewest resources.
+2. **Discuss Potential Conflicts and Trade-Offs:** 
+    - Explore any conflicts between the principles of justice or tensions between different ethical considerations.
+    - Consider whether certain choices prioritise one principle over another and the implications of these choices for overall justice.
+#### Examples
+- From a John Rawls' theory of justice perspective, the ethical evaluation of abortion centers on principles of fairness, equality, and the protection of individual liberties. Rawls' theory emphasises the importance of ensuring equal opportunities and protections for all individuals within society, particularly the most vulnerable and marginalised. When applied to the issue of abortion, Rawls' principles of justice suggest that the rights and interests of both the pregnant individual and the fetus must be carefully balanced. Rawls would argue that justice requires ensuring that individuals have the freedom to make decisions about their own bodies and reproductive choices, while also recognising the moral worth and potential interests of the fetus. Therefore, Rawls would likely support a framework that allows for access to safe and legal abortion while also prioritising measures to promote reproductive health, education, and social support to minimise the need for abortion and ensure fair opportunities for all individuals, including pregnant individuals and potential future persons. Additionally, Rawls would emphasise the importance of ensuring that the decision-making process regarding abortion is fair and equitable, taking into account the diverse perspectives and circumstances of those affected by abortion policies.
+<br/>
+- From a John Rawlsian perspective of justice, the development and implementation of artificial intelligence (AI) and automation must be guided by principles that promote fairness, equality, and the protection of basic liberties for all members of society. Rawls argues that a just society is one in which the basic structure, including its institutions and practices, is designed to benefit the least advantaged while respecting the rights and freedoms of all individuals. In the context of AI and automation, this means ensuring that these technologies are deployed in ways that do not exacerbate existing inequalities or undermine essential human capabilities and opportunities. Rawls would likely advocate for policies that promote equal access to education and training in AI-related fields to prevent the concentration of power and wealth in the hands of a privileged few. Additionally, Rawls would emphasise the importance of transparency and accountability in the design and use of AI algorithms to prevent discrimination and ensure that decision-making processes are fair and just. Moreover, Rawlsian principles would require that the benefits and burdens of AI and automation are distributed equitably across society, with a focus on protecting the rights and dignity of workers who may be displaced or marginalised by technological advancements. By upholding Rawlsian principles of justice, society can harness the potential of AI and automation to promote the common good and advance the well-being of all its members.
+## Libertarianism
+- Rests on historical, non-patterned principle of justice
+	- non-patterned: does not distribute according to certain features, otherwise it would infringe upon the right to liberty of persons, e.g. there is no obligations on the rich to donate to the poor, assuming that the rich obtained their wealth through just acquisitions and transfers
+- Harm Principle
+	- According to this principle, the only justification for limiting individual liberty is to prevent harm to others. In other words, individuals should be free to act as they choose, as long as their actions do not infringe upon the rights or cause harm to others.
+	- In the context of libertarianism, the harm principle serves as a foundational concept for understanding the limits of government intervention in the lives of individuals. Libertarians argue that the role of government should be minimal, limited primarily to protecting individuals from harm caused by the actions of others, such as violence, fraud, or coercion.
+	- For example, libertarians typically advocate for the legalization of drugs, arguing that individuals should have the freedom to consume substances of their choosing as long as they do not harm others in the process. Similarly, libertarians support the decriminalization of consensual adult activities such as gambling, prostitution, and certain forms of speech, as long as they do not directly harm others.
+### Structuring answer for Libertarianism
+1. **Assess Individual Rights and Freedoms:**
+    - Analyse how the ethical situation impacts the rights and freedoms of individuals involved.
+    - Consider whether the situation involves coercion, infringement on personal autonomy, or violations of individual rights according to libertarian principles.
+2. **Evaluate Government Intervention:**
+    - Discuss the role of government intervention in the ethical situation.
+    - Consider whether government actions or policies are justified according to libertarian ethics, or if they constitute unwarranted interference in individual liberty.
+4. **Discuss Potential Alternatives:**
+    - Explore alternative approaches to addressing the ethical issue that align with libertarian principles.
+    - Consider voluntary, market-based solutions, private initiatives, or individual autonomy as potential alternatives to government intervention.
+5. **Address Potential Conflicts:**
+    - Acknowledge any conflicts or tensions between libertarian principles and other ethical considerations.
+    - Discuss how competing values, such as social welfare or public safety, may intersect with libertarian ethics in the given situation.
+#### Examples
+- From a libertarian perspective, the ethical evaluation of abortion revolves around the principles of individual autonomy, personal freedom, and limited government intervention. Libertarians prioritize the rights of individuals to make their own choices regarding their bodies and reproductive decisions, free from coercion or interference by external authorities. Therefore, in the context of abortion, libertarians generally advocate for the protection of a pregnant individual's right to bodily autonomy and self-determination. They argue that government restrictions on abortion, such as prohibitions or regulations, violate these fundamental rights and constitute unwarranted infringement on personal freedom. Libertarians contend that individuals should be free to make decisions about their own reproductive health in consultation with their healthcare providers, without government interference. Additionally, libertarians emphasise the importance of voluntary interactions and non-coercive solutions in addressing moral dilemmas, suggesting that private initiatives, education, and support networks may offer more effective means of addressing the complex social and ethical issues surrounding abortion. Ultimately, from a libertarian perspective, the ethicality of abortion hinges on the protection of individual rights and freedoms, with minimal government intervention in matters of personal choice and autonomy.
+<br/>
+- From a libertarian perspective, artificial intelligence (AI) and automation represent the embodiment of individual freedom and entrepreneurial innovation. Libertarians typically prioritise individual liberty and minimal government intervention in economic and social affairs. They view AI and automation as tools that empower individuals and businesses to pursue their interests and maximise their potential without undue regulation or interference. In this view, the development and deployment of AI technologies should be driven by market forces and voluntary exchanges, rather than government mandates or central planning. Libertarians argue that free-market competition fosters innovation and efficiency, leading to the creation of new jobs, industries, and opportunities for economic growth. From this standpoint, government intervention in the form of regulations or restrictions on AI and automation is seen as potentially stifling innovation and impeding progress. Instead, libertarians advocate for policies that promote competition, protect property rights, and ensure that individuals are free to develop and use AI technologies as they see fit. However, libertarians also recognise the importance of addressing potential ethical concerns, such as privacy, security, and the impact of automation on employment, through voluntary mechanisms such as industry standards and consumer choice. Overall, from a libertarian perspective, AI and automation hold the promise of enhancing individual freedom, promoting economic prosperity, and unleashing the creative potential of human ingenuity.
+<br/>
+- A libertarian would prima facie support the government's decision to build more casinos because it would be in line with respecting the freedom of consumers
+- It is every customer's choice whether or not to gamble and to bear the consequences of that choice, so long as no harm is being caused to anyone else
+- Free market economics should prevail, and the government should refrain from imposing any regulation over it
+- ethicality of *[moral choice]* for libertarianism depends on the extent of individual autonomy within a free market system
+## Virtue Ethics
+### Framing answer for Virtue Ethics
+1. **Achieves the ends of human flourishing**
+	- How do the consequences of the actions taken by the moral agent promote/prevent human flourishing and eudaimonia
+	- Virtues to consider in business ethics are: community, excellence, membership, judgement, holism
+		- Example 1: The nature of gambling breeds addictiveness. It is a waste of time and encourages ill-considered risk taking >> does not promote human flourishing and allows people to be good as well as comes at a great social cause >> unethical
+		- Example 2: bad employment conditions prevents human flourishing as employees hardly have free time to pursue higher order aspirations, e.g. pursue their passions outside of work and expand their minds
+2. **Golden mean**
+	- Are the actions avoiding the extremes of excess or deficiency, and whether it is achieving balance/ the 'golden mean'? Identify what are the two extremes, and what would constitute as the golden mean (if applicable) >> explain why the action is not a reasonable mean between extremes
+3. **Limitations of the theory**
+	- It does not offer a decision-making procedure or normative principles on human conduct, but merely an understanding on what the desirable values are
+	- Virtues are also dependent on societal values and may vary with the times
+#### Examples
+- In analysing abortion from a virtue ethics perspective, the focus shifts from specific rules or consequences to the character and moral virtues of the individuals involved. Virtue ethics emphasises the cultivation of virtuous traits such as compassion, honesty, integrity, and courage, and evaluates actions based on whether they contribute to the development of these virtues or detract from them. In the context of abortion, virtue ethicists may consider the character of the pregnant individual, healthcare providers, policymakers, and society as a whole. They would examine whether the decision to undergo or provide an abortion is made with integrity, honesty, and compassion, taking into account the well-being and autonomy of all parties involved. Additionally, virtue ethicists may consider how societal attitudes and policies surrounding abortion contribute to the development of virtues such as empathy, justice, and respect for human dignity. Ultimately, the ethical evaluation of abortion from a virtue ethics perspective involves assessing whether the actions and decisions involved contribute to the cultivation of virtuous character traits and promote the flourishing and well-being of individuals and communities.
+<br/>
+- From a virtue ethics perspective, the development and implementation of artificial intelligence (AI) and automation should be guided by considerations of moral character, excellence, and the cultivation of virtuous behavior. Virtue ethics focuses on the moral virtues or qualities of character that lead to human flourishing and the good life. In the context of AI and automation, this means prioritizing ethical considerations such as empathy, compassion, honesty, and integrity in the design, development, and use of these technologies. Virtue ethicists would emphasize the importance of cultivating moral virtues among engineers, programmers, and policymakers involved in AI projects to ensure that these technologies are used responsibly and for the benefit of humanity. Moreover, virtue ethics encourages individuals and organizations to consider the broader social and ethical implications of AI and automation, including issues related to fairness, justice, and the common good. For example, companies developing AI algorithms should strive to minimize biases and ensure that their technologies do not perpetuate discrimination or inequality. Additionally, virtue ethics emphasizes the importance of promoting human flourishing and well-being in the design of AI systems, rather than simply focusing on efficiency or profit. By integrating considerations of virtue and moral character into the development and deployment of AI and automation, society can foster a culture of ethical responsibility and promote the realization of human excellence in the digital age.

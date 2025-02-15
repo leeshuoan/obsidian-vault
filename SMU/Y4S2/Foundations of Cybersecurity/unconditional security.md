@@ -1,0 +1,1 @@
+A cryptosystem is unconditionally secure if it cannot be broken even with infinite computational resources
